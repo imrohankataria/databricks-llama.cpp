@@ -2,6 +2,12 @@
 
 This repository contains two Databricks notebooks: LLAMA2 - 13b CPP and CODELLAMA - 34b CPP. Both notebooks implement variants of the LLM (Language Model) architecture and are designed to run on Databricks clusters. 
 
+
+
+https://github.com/imrohankataria/databricks-llama.cpp/assets/41874450/ee873bed-e338-4787-9aeb-13534907625c
+
+
+
 ## LLAMA2 - 13b CPP
 
 **Cluster Used:** NC6s_v3 ([Azure VM Pricing](https://azureprice.net/vm/Standard_NC6s_v3))
