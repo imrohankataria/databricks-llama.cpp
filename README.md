@@ -18,7 +18,7 @@ The notebook includes instructions for installing necessary libraries and tools,
 
 Please note that it's important to ensure the model path is correct for your system, and the values for n_gpu_layers, n_batch, and n_ctx are appropriate for your model and GPU VRAM pool.
 
-**Notebook:** [LLAMA2 - 13b CPP Notebook](https://github.com/username/repo/blob/main/LLAMA2_13b_CPP_Notebook.py)
+**Notebook:** [LLAMA2 - 13b CPP Notebook](/LLAMA2_13b_CPP_Notebook.py)
 
 ## CODELLAMA - 34b CPP
 
@@ -41,4 +41,4 @@ The notebook includes instructions for installing necessary libraries and tools,
 
 Please note that it's important to ensure the model path is correct for your system, and the values for n_gpu_layers, n_batch, and n_ctx are appropriate for your model and GPU VRAM pool.
 
-**Notebook:** [CODELLAMA - 34b CPP Notebook](https://github.com/username/repo/blob/main/CODELLAMA_34b_CPP_Notebook.py)
+**Notebook:** [CODELLAMA - 34b CPP Notebook](/CODELLAMA_34b_CPP_Notebook.py)
